@@ -59,7 +59,7 @@ Let us call a question like the ones above a `source`. A `pattern` is a string l
 ```text
 what movies were made in _
 who % the movie %
-```
+``` yippee
 
 The idea is that we match words in the `source` with words in the `pattern`. The symbol `_` (an underscore) can match any single word, and the symbol `%` (a percent sign) can match a sequence of zero or more words.
 
